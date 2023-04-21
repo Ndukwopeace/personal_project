@@ -70,10 +70,9 @@ table {
     /* border:1px solid black; */
     
 }
-/* body{
-font-family: 'Cormorant Garamond', serif;
-font-family: 'Montserrat', sans-serif;
-} */
+.pic {
+   background-image: url(./images/gabriel\ ghnassia\ A9h6OsAxTyQ\ unsplash.png);
+ }
 /*============================
  logo 
  =============================*/
@@ -95,8 +94,9 @@ font-family: 'Montserrat', sans-serif;
     float:right;
    word-spacing:90px;
  }
+ 
 
- /* ===========
+ /* ======================================================================================================================================================================
  herosection
  ============== */
  .herosection{
@@ -148,3 +148,4 @@ p{
     line-height: 15px;
     letter-spacing:3px;
 }
+/*# sourceMappingURL=partial.css.map */
